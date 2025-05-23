@@ -8,5 +8,4 @@
 #### - Lucide Icons
 #### - Class-variance-authority
 #### - Tailwind Merge
- 
-# base-template-vite
+#### - Basic ESLint + Prettier + EditorConfig
